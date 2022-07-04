@@ -1,0 +1,7 @@
+.firstView {
+  display: flex;
+  justify-content: space-between;
+}
+.rowShow {
+  border: 2px solid gray;
+}

@@ -1,0 +1,11 @@
+.show {
+  display: flex;
+}
+.rowShow {
+  border: 2px solid gray;
+}
+
+.select {
+  display: flex;
+  justify-content: space-between;
+}
